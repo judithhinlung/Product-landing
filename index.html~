@@ -4,7 +4,6 @@
 <head>
   <meta charset="utf-8">
   <title>Grand Family Dining Table</title>
-  <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
   <link rel="stylesheet"  href="./resources/css/style.css">
 </head>
 <body>
@@ -74,7 +73,7 @@
 <section id="productDetail" class="pdp-base-container pt-0 other-item">
   <div class="tabpanels-container">
     <div class="tabpanels" style="width: 2422px; margin-left: 0px;">
-      <div role="tabpanel" class="tabpanel">
+      <div role="tabpanel" class="tabpanel pb-0 pt-0">
         <div id="ProductDetailsTab" role="tabpanel" class="tabpanel" tabindex="-1" aria-hidden="false">
           <h2 class="text--center mb-s">Product Details</h2>
             <table class="plain centered">
