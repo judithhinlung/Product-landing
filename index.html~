@@ -7,7 +7,7 @@
   <link rel="stylesheet"  href="./resources/css/style.css">
 </head>
 <body>
-
+  <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
   <div id="page-wrapper">
     <header id="header">
     <div class="logo">
@@ -70,10 +70,10 @@
     <iframe id="video" height="315" src="https://www.youtube.com/embed/ayJpDLPaIG4" allowfullscreen=""></iframe>
   </section>
 
-<section id="productDetail" class="pdp-base-container pt-0 other-item">
+<section id="product-details" class="pdp-base-container pt-0 other-item">
   <div class="tabpanels-container">
     <div class="tabpanels" style="width: 2422px; margin-left: 0px;">
-      <div role="tabpanel" class="tabpanel pb-0 pt-0">
+      <div role="tabpanel" class="tabpanel">
         <div id="ProductDetailsTab" role="tabpanel" class="tabpanel" tabindex="-1" aria-hidden="false">
           <h2 class="text--center mb-s">Product Details</h2>
             <table class="plain centered">
